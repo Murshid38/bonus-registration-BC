@@ -1,0 +1,30 @@
+{
+  "id": "a14722b2-ceba-4b98-8df3-dfc9906e8636",
+  "name": "BonusRegistration",
+  "publisher": "Murshid",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "res/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 65400,
+      "to": 65600
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": ["NoImplicitWith"],
+  "runtime": "8.0"
+}
